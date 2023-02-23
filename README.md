@@ -28,7 +28,7 @@ I'm passionate about technology, innovation and big challenging tasks on my to d
   
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-hash&date_format=%5BY.%5Dn.j&background=00000000&border=5c5c5c&hide_border=true&stroke=878787&ring=40bb13&fire=40bb13&currStreakNum=40bb13&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
  
-<div align="left">
+
 <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-hash&show_icons=true&border=5c5c5c&hide_border=true&count_private=true&bg_color=00000000&title_color=40bb13&text_color=878787&icon_color=40bb13&cache_seconds=1800" />
 
 <!--
