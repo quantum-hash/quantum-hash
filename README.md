@@ -38,10 +38,6 @@ I'm passionate about technology, innovation and big challenging tasks on my to d
 
 <!--
 I’m currently learning
-
-I make content about full-stack web development on my [Blog](https://blog.jarrodwatts.com/) and my [YouTube Channel](https://www.youtube.com/channel/UCJae_agpt9S3qwWNED0KHcQ).
-
-Thanks for stopping by!
 -->
 
 <!--
