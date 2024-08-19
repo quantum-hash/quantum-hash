@@ -11,6 +11,7 @@
  
 [![Click to follow - GitHub Followers](https://img.shields.io/github/followers/quantum-hash?label=Click%20to%20follow%20-%20GitHub%20Followers%20:&style=flat&color=success)](https://github.com/quantum-hash) 
 
+![](https://komarev.com/ghpvc/?username=quantum-hash&label=PROFILE+VIEWS&style=flat&color=brightgreen&abbreviated=true)
 
 I'm passionate about technology, innovation and big challenging tasks on my to do list.
 
