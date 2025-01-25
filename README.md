@@ -3,8 +3,8 @@
 # Hey There! 👋
 
 <!--
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UCJae_agpt9S3qwWNED0KHcQ?sub_confirmation=1)
-[![Twitter Followers](https://img.shields.io/twitter/follow/jarrodwattsdev?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=jarrodwattsdev)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/?sub_confirmation=1)
+[![Twitter Followers](https://img.shields.io/twitter/follow/jarrodwattsdev?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=)
 ---
 -->
 
@@ -13,16 +13,16 @@
 
 ![](https://komarev.com/ghpvc/?username=quantum-hash&label=PROFILE+VIEWS&style=flat&color=brightgreen&abbreviated=true)
 
-I'm passionate about technology, innovation and big challenging tasks on my to do list.
+Passionate about tech, innovation and big challenging tasks on my to do list.
 
-- ⚡ Fun fact: “Curiosity is the engine of achievement”.  (Ken Robinson)
+<!-- - ⚡ Fun fact: “Curiosity is the engine of achievement”.  (Ken Robinson)-->
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=quantum-hash&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=40bb13" alt="quantum-hash">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-hash&count_private=true&theme=shades-of-purple&icon_color=40bb13" alt="quantum-hash" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-hash&count_private=true&theme=shades-of-purple&icon_color=40bb13" alt="quantum-hash" />
 -->
 
-### My Github Stats:
+### Github Stats:
 <div align="left">
 
 <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-hash&show_icons=true&border=5c5c5c&hide_border=true&count_private=true&bg_color=00000000&title_color=40bb13&text_color=878787&icon_color=40bb13&cache_seconds=1800" /> <br />
